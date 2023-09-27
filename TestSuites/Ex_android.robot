@@ -17,14 +17,7 @@ Open Test Application For android
     Tap     id=com.material.components:id/bt_close
     Swipe    0	 1000    100    100     500
     Swipe    1000	 500   100    100     500
-    # Wait Until Element Is Visible   //android.widget.TextView[@text='Player']     10s
-    # Tap     //android.widget.TextView[@text='Player']
-    # Wait Until Element Is Visible   //android.widget.TextView[@text='Music Genre Image']     10s
-    # Tap     //android.widget.TextView[@text='Music Genre Image']
-    # Wait Until Element Is Visible   //android.widget.ImageButton[@resource-id='com.material.components:id/bt_toggle_input']   10s
-    # Tap     //android.widget.ImageButton[@resource-id='com.material.components:id/bt_toggle_input']
-    # Tap     //android.widget.RadioButton[@index='0']
-    # Tap     //android.widget.Button[@index='1']
+    
 
 
 

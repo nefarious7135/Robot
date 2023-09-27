@@ -14,4 +14,6 @@ Test traning
     Sleep    1s
     Click    (//section[@id="top10series"]//div[contains(concat('',normalize-space(@class),''),'d-none d-md-flex')])[1]/button[1]
     Sleep    1s
+    Click    (//section[@id="top10series"]//div[contains(concat('',normalize-space(@class),''),'d-none d-md-flex')])[1]/button[1]
+    Sleep    1s
     
